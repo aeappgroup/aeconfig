@@ -1,5 +1,5 @@
 {
     "is_on": false,
-    "is_banner": true,
-    "countClickToShowAds": 2
+    "is_banner": false,
+    "countClickToShowAds": 10
 }
