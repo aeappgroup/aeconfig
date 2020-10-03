@@ -1,5 +1,5 @@
 {
     "is_on": false,
     "is_banner": false, 
-    "timeToShowAds": 20 //Mặc định cho 20s
+    "timeToShowAds": 50
 }
